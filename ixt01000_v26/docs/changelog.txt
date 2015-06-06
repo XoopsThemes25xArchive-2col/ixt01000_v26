@@ -1,0 +1,7 @@
+IXThemes ChangeLog
+
+== IXThemes ixt01000 ==
+
+===2010-17-03 : 2.6 ===
+
+The first public release of an ixt01000 XOOPS theme
